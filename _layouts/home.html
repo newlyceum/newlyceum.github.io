@@ -17,6 +17,12 @@
             padding: 20px;
             width: 50%;
         }
+        h3 {
+            margin-bottom: .5em;
+        }
+        .recent p {
+            margin-top: 0;
+        }
     </style>
 </head>
 <body>
@@ -29,7 +35,8 @@
 {% if day != nday %}
         <h2>{{ post.date | date: "%A, %B %e, %Y" }}</h2>
 {% endif %}
-        <p><a href="{{ post.link }}">{{ post.title }}</a></p>
+        <h3><a href="{{ post.link }}">{{ post.title }}</a></h3>
+        {{ post.content }}
 {% endfor %}
     </div>
 
