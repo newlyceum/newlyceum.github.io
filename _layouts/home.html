@@ -35,7 +35,7 @@
     <div class="categories">
         <h1>Posts by Category</h1>
 {% for category in site.categories %}
-        <h2>{{ category }}</h2>
+        <h2>{{ category[0] | capitalize }}</h2>
 {% assign posts = category[1] %}
 {% for post in posts %}
         <p><a href="{{ post.link }}">{{ post.title }}</a></p>
