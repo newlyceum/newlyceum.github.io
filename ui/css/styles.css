@@ -49,7 +49,8 @@
         h3 {
             margin-bottom: .5em;
         }
-        .recent p {
+        .recent p,
+        .recent ul {
             line-height: 1.5em;
             margin-top: 0;
         }
