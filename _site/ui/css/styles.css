@@ -38,6 +38,14 @@
         .entry {
             margin-bottom: 3em;
         }
+        .entry > div {
+            background: #efefef;
+            font-size: 0;
+            line-height: 0;
+            margin-right: auto;
+            margin-left: auto;
+            text-align: center;
+        }
         h3 {
             margin-bottom: .5em;
         }
