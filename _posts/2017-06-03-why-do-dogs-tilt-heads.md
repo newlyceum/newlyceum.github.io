@@ -1,6 +1,6 @@
 ---
 title: Why do dogs tilt their heads?
-categories: science
+categories: science video
 date: 2017-06-03 10:25:00 -0000
 link: https://www.youtube.com/watch?v=y1XxE4ou2k0
 ---
