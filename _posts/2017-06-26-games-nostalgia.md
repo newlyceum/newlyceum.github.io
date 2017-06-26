@@ -2,7 +2,7 @@
 title: Games Nostalgia has classic/retro games available for download
 categories: videogames
 date: 2017-06-26 12:45:00 -0000
-link: http://gamesnostalgia.com/
+link: http://gamesnostalgia.com/en/
 ---
 A few to check out:
 
