@@ -50,7 +50,8 @@
             margin-bottom: .5em;
         }
         .recent p,
-        .recent ul {
+        .recent ul,
+        .recent blockquote {
             line-height: 1.5em;
             margin-top: 0;
         }
@@ -60,4 +61,26 @@
         }
         a:visited {
             color: #1e456e;
+        }
+        figure {
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 0;
+            margin-left: 0;
+        }
+        figure:not(:last-child) {
+            margin-bottom: 3em;
+        }
+            figure img {
+                height: auto;
+                width: 100%;
+            }
+        blockquote {
+            border-left: 2px solid #ededed;
+            color: #444;
+            font-style: italic;
+            margin-left: 0;
+            padding-top: 2px;
+            padding-left: 20px;
+            padding-bottom: 2px;
         }
