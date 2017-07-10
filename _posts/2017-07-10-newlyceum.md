@@ -1,7 +1,7 @@
 ---
 title: "What Does &lsquo;New Lyceum&rsquo; Mean?"
 categories: learning education
-date: 2017-07-04 10:30:00 -0000
+date: 2017-07-10 09:50:00 -0000
 link: https://en.wikipedia.org/wiki/Lyceum_(Classical)
 ---
 [In Ancient Greece](https://en.wikipedia.org/wiki/Lyceum_(Classical)):
