@@ -12,4 +12,4 @@ link: https://en.wikipedia.org/wiki/Lyceum_(Classical)
 
 In America, [the lyceum movement](https://en.wikipedia.org/wiki/Lyceum_movement):
 
-> The first American lyceum was founded by Josiah Holbrook in 1826. Holbrook was a traveling lecturer and teacher who believed that education was a lifelong experience
+> The first American lyceum was founded by Josiah Holbrook in 1826. Holbrook was a traveling lecturer and teacher who believed that education was a lifelong experience.
