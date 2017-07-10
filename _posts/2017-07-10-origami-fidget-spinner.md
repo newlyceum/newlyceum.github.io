@@ -1,6 +1,6 @@
 ---
 title: Make an Origami Fidget Spinner
-categories: how-to origamie
+categories: video how-to origamie
 date: 2017-07-10 09:45:00 -0000
 link: https://www.youtube.com/watch?v=kJMGBjoSudY
 ---
