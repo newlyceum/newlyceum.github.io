@@ -9,3 +9,5 @@ link: http://www.ign.com/wikis/the-legend-of-zelda/Preparation
 [Player&rsquo;s Guide](http://www.ign.com/wikis/the-legend-of-zelda/Preparation)
 
 [Zeldapedia wiki](http://zelda.wikia.com/wiki/The_Legend_of_Zelda)
+
+[Enemies list](http://www.ign.com/wikis/the-legend-of-zelda/Enemies)
