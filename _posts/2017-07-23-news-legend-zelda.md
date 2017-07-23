@@ -6,7 +6,7 @@ link: http://www.ign.com/wikis/the-legend-of-zelda/Preparation
 ---
 <figure><img src="http://tu9srvbirvvtmjikb3lzdgvylmlnbmltz3muy29t.g00.ign.com/g00/2_d3d3Lmlnbi5jb20%3D_/TU9SRVBIRVVTMjIkaHR0cDovL295c3Rlci5pZ25pbWdzLmNvbS9tZWRpYXdpa2kvYXBpcy5pZ24uY29tL3RoZS1sZWdlbmQtb2YtemVsZGEvOC84YS9aZWxkYU92ZXJ3b3JsZE1hcFExLnBuZz9pMTBjLm1hcmsuaW1hZ2UudHlwZQ%3D%3D_$/$/$/$/$/$/$" alt="" /></figure>
 
-[Map](http://tu9srvbirvvtmjikb3lzdgvylmlnbmltz3muy29t.g00.ign.com/g00/2_d3d3Lmlnbi5jb20%3D_/TU9SRVBIRVVTMjIkaHR0cDovL295c3Rlci5pZ25pbWdzLmNvbS9tZWRpYXdpa2kvYXBpcy5pZ24uY29tL3RoZS1sZWdlbmQtb2YtemVsZGEvOC84YS9aZWxkYU92ZXJ3b3JsZE1hcFExLnBuZz9pMTBjLm1hcmsuaW1hZ2UudHlwZQ%3D%3D_$/$/$/$/$/$/$)
+[Overworld map](http://tu9srvbirvvtmjikb3lzdgvylmlnbmltz3muy29t.g00.ign.com/g00/2_d3d3Lmlnbi5jb20%3D_/TU9SRVBIRVVTMjIkaHR0cDovL295c3Rlci5pZ25pbWdzLmNvbS9tZWRpYXdpa2kvYXBpcy5pZ24uY29tL3RoZS1sZWdlbmQtb2YtemVsZGEvOC84YS9aZWxkYU92ZXJ3b3JsZE1hcFExLnBuZz9pMTBjLm1hcmsuaW1hZ2UudHlwZQ%3D%3D_$/$/$/$/$/$/$) [All maps](http://www.ign.com/wikis/the-legend-of-zelda/Maps)
 
 [Player&rsquo;s Guide](http://www.ign.com/wikis/the-legend-of-zelda/Preparation)
 
