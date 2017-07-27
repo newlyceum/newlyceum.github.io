@@ -15,7 +15,7 @@
 {% if day != nday %}
         <h2>{{ post.date | date: "%A, %B %e, %Y" }}</h2>
 {% endif %}
-        <div class="entry"><h3><a href="{{ post.link }}">{{ post.title }}</a></h3>
+        <div class="entry"><h3 id="{{ post.slug }}"><a href="#{{ post.slug }}">#</a> <a href="{{ post.link }}">{{ post.title }}</a></h3>
         {{ post.content }}</div>
 {% endfor %}
     </div>
