@@ -1,6 +1,6 @@
 ---
 title: "13 Year Old Builds Tiny Cabin for $1500!"
-categories: building tiny-house
+categories: building tiny-house video
 date: 2017-11-22 15:45:00 -0000
 link: http://tinyhousetalk.com/13-year-old-builds-tiny-cabin-for-1500/
 ---
