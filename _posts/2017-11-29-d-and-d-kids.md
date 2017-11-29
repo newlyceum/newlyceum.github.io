@@ -1,7 +1,7 @@
 ---
 title: "D&D for Kids"
 categories: games rpg
-date: 2017-11-16 12:00:00 -0000
+date: 2017-11-29 12:00:00 -0000
 link: https://dnd.wizards.com/articles/features/being-dungeon-master-kids
 ---
 [Being a Dungeon Master for Kids](https://dnd.wizards.com/articles/features/being-dungeon-master-kids)
