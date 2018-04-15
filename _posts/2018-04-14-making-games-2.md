@@ -1,7 +1,7 @@
 ---
 title: "Making Games, Part 2"
 categories: games maker
-date: 2018-04-14 15:50:00 -0000
+date: 2018-04-14 21:30:00 -0000
 link: https://help.thegamecrafter.com/article/5-getting-started
 ---
 [Getting Started, from The Game Craft](https://help.thegamecrafter.com/article/5-getting-started)
