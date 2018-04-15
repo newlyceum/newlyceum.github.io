@@ -1,5 +1,5 @@
 ---
-title: "Making Tabletop, RPG, and Board Games"
+title: "UPDATED: Making Tabletop, RPG, and Board Games"
 categories: games maker
 date: 2018-04-14 15:50:00 -0000
 link: https://stonemaiergames.com/kickstarter/how-to-design-a-tabletop-game/
