@@ -1,7 +1,7 @@
 ---
-title: "How Space Travel Affects Astronauts"
-categories: space nasa dna
-date: 2018-03-14 20:25:00 -0000
-link: https://www.livescience.com/62000-scott-kelly-dna-twin-study.html
+title: "Anatomy of Cartoon Characters"
+categories: anatomy illustration cartoons snoopy
+date: 2018-03-09 13:00:00 -0000
+link: http://michaelpaulus.com/section/59023_CHARACTER_STUDY.html
 ---
-Read about the effects of space travel on astronauts.
+What would popular cartoon characters look like on the inside?
