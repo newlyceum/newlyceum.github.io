@@ -9,7 +9,7 @@
 
     <div class="wrapper"><div class="recent">
         <h1>Posts by Date</h1>
-{% for post in site.posts %}
+{% for post in site.posts | limit:40 %}
 {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
 {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
 {% if day != nday %}
