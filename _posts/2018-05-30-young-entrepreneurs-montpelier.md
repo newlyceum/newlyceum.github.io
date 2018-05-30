@@ -12,5 +12,5 @@ link: http://www.dragonmag.com/
 > 
 > Our first Next-Gen entrepreneurs are two enterprising young ladies from Union Elementary who call themselves Lady Bites. I'll preview them later in the week.
 > 
-> Cindra 
+> Cindra  
 > The Quirky Pet.
