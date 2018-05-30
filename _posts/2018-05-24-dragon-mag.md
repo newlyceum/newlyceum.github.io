@@ -1,6 +1,6 @@
 ---
 title: "DRAGON is a D&D magazine that's still published!"
-categories: rpg dungeons-and-dragos
+categories: rpg dungeons-and-dragons
 date: 2018-05-24 09:20:00 -0000
 link: http://www.dragonmag.com/
 ---
