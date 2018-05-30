@@ -2,7 +2,6 @@
 title: "Montpelier's Next Generation Entrepreneurs!"
 categories: selling montpelier vermont
 date: 2018-05-30 19:40:00 -0000
-link: http://www.dragonmag.com/
 ---
 > Montpelier is fortunate to still have family owned businesses. In far too many cities and suburbs they are crowded out by faceless franchises. We don't want that fate in our town any time in the future.
 > 
@@ -12,5 +11,5 @@ link: http://www.dragonmag.com/
 > 
 > Our first Next-Gen entrepreneurs are two enterprising young ladies from Union Elementary who call themselves Lady Bites. I'll preview them later in the week.
 > 
-> Cindra  
+> Cindra<br /> 
 > The Quirky Pet.
