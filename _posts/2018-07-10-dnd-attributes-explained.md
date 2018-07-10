@@ -1,6 +1,6 @@
 ---
 title: "D&D Attributes Explained with Tomatoes"
-categories: dnd dandd character-sheets
+categories: dungeons-and-dragos character-sheets
 date: 2018-07-10 09:10:00 -0000
 ---
 * **Intelligence** is knowing that a tomato is a fruit
