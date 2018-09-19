@@ -1,6 +1,6 @@
 ---
 title: "Klingon Language"
-categories: movies video
+categories: movies video klingon star-trek
 date: 2018-09-19 18:10:00 -0000
 link: https://www.kli.org/
 ---
