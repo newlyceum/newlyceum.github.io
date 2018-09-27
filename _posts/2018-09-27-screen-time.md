@@ -3,8 +3,8 @@ title: "US kids spend too much time in front of a screen and too little asleep, 
 categories: screens health exercise
 date: 2018-09-27 10:05:00 -0000
 ---
-> **Only 5% meet sleep, exercise and screen time guidelines**
-> **Sleep and screen findings linked to drop-off in cognitive skills**
+> * **Only 5% meet sleep, exercise and screen time guidelines**
+> * **Sleep and screen findings linked to drop-off in cognitive skills**
 
 > Only one in 20 kids in the United States meets guidelines on sleep, exercise and screen time, and nearly a third are outside recommendations for all three, a new study has found.
 
