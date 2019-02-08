@@ -1,5 +1,5 @@
 ---
-title: "From Zygote to Tadpole in Six Minutes (Cell Divison sped up)"
+title: "From Zygote to Tadpole in Six Minutes (Cell Division sped up)"
 categories: biology science video
 date: 2019-02-07 12:20:00 -0000
 ---
