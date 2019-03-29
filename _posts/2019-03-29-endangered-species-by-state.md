@@ -6,6 +6,6 @@ link: https://www.behance.net/gallery/76342959/The-Most-Endangered-Wildlife-in-E
 ---
 Vermont:
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bf24e976342959.5c98a50fe5e55.jpg" />
+<div><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bf24e976342959.5c98a50fe5e55.jpg" /></div>
 
 [View the others](https://www.behance.net/gallery/76342959/The-Most-Endangered-Wildlife-in-Every-US-State).
