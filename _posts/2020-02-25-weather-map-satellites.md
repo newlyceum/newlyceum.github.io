@@ -1,7 +1,7 @@
 ---
 title: "How 10 Satellites Build a Daily Global Precipitation Map"
 categories: video weather satellites
-date: 2020-02-25 17:55:00 -0000
+date: 2020-02-25 17:55:00 +0000
 ---
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bO9-dyYK3qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
