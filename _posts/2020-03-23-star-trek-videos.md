@@ -26,3 +26,7 @@ USS Voyager: 10 Little Known Features
 USS Defiant: 10 Little Known Features
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I5gOFGoc52s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Picard: Every Easter Egg in Episode 2
+
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m2q84RgD96Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
