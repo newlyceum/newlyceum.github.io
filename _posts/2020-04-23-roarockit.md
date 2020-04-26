@@ -9,3 +9,5 @@ link: http://www.thinairpress.com/skateboard-building/2015/7/6/roarockit-explain
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JldzQSeTY6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1VPM5c_vdDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Check out "How to use this product" on the [Profile Scraper page](https://www.roarockit.com/skateboard-building/profile-scraper/).
