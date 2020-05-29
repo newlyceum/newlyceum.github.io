@@ -1,9 +1,9 @@
 ---
-title: "Squirrels"
-categories: video squirrels
-date: 2020-05-25 21:50:00 +0000
-link: https://www.youtube.com/watch?v=hFZFjoX2cGg&feature=youtu.be
+title: "Nature by Numbers"
+categories: fibonacci golden-ratio video
+date: 2020-05-21 21:40:00 +0000
+link: https://www.youtube.com/watch?v=kkGeOWYOFoA&feature=youtu.be
 ---
-<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hFZFjoX2cGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kkGeOWYOFoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-> Former Apple and NASA engineer turned YouTube sensation Mark Rober decided to spend his quarantine birdwatching until his neighbourhood squirrels defeated his supposedly squirrel-proof birdfeeders.
+> This lovely short film by Cristóbal Vila shows how the simple Fibonacci sequence manifests itself in natural forms like sunflowers, nautilus shells, and dragonfly wings.
