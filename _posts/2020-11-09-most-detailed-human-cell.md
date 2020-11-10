@@ -9,4 +9,4 @@ link: https://gaelmcgill.artstation.com/projects/Pm0JL1
 
 Click the link above and then click on each photo to explore the parts of the cell in detail.
 
-<div><img src="https://cdna.artstation.com/p/assets/images/images/022/299/390/large/gael-mcgill-cellularlandscape-digizyme.jpg?1574883833" /></div>
+<figure><img src="https://cdna.artstation.com/p/assets/images/images/022/299/390/large/gael-mcgill-cellularlandscape-digizyme.jpg?1574883833" /></figure>
